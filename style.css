@@ -1,3 +1,17 @@
 body {
-    background: blue;
+    background: rgb(235, 231, 208);
   }
+h1 {
+    color: rgb(121, 118, 118)
+}
+p.normal {
+    font-style: normal;
+}
+p.italic {
+    font-style: italic;
+}
+div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue
+}
